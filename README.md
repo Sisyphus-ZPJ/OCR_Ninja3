@@ -47,8 +47,8 @@ pip install -r requirements.txt
 ## 贡献者
 | 姓名 | 贡献 | 联系方式 |
 | - | - | - |
-| ZPJ-LEFT | 深度学习识别算法，图像预处理 | 2724682324@qq.com |
-| 7.18 | 优化数据处理逻辑 | - |
+| [ZPJ-LEFT](https://github.com/ZPJ-LEFT) | 深度学习识别算法，图像预处理 | 2724682324@qq.com |
+| [Rosmontiser](https://github.com/Rosmontiser) | 优化数据处理逻辑 | - |
 
 ## 许可证信息
 
