@@ -28,7 +28,8 @@ pip install -r requirements.txt
 
 #### 1. 利用第三方截图软件，获得格式一致的家族战积分截图，如: 
 
-![游戏截图](./samples/initial_images/Screenshot_20241201-210524.png){:height="50%" width="50%"}
+ <img src="./samples/initial_images/Screenshot_20241201-210524.png" width = "640" height = "360" alt="游戏截图" align=center />
+
 
 #### 2. 编辑config.yml
 
@@ -38,7 +39,7 @@ pip install -r requirements.txt
 #### 3. 运行python image_process.py，对原始截图进行裁剪
 利用鼠标框选截图区域后，按回车确认即可（倘如截取区域选取不满意，可以重复框选，上一次的结果会被自动擦除）
 
-![预处理结果](./samples/sample_0001.jpg){:height="25%" width="25%"}
+ <img src="./samples/sample_0001.jpg" width = "200" height = "300" alt="预处理结果" align=center />
 
 
 #### 4. 运行python main.py，对截图进行OCR识别
@@ -46,8 +47,8 @@ pip install -r requirements.txt
 ## 贡献者
 | 姓名 | 贡献 | 联系方式 |
 | - | - | - |
-| 7.18 | 项目创建，优化数据处理逻辑 | - |
-| LEFT | 深度学习识别算法，图像预处理 | 2724682324@qq.com |
+| ZPJ-LEFT | 深度学习识别算法，图像预处理 | 2724682324@qq.com |
+| 7.18 | 优化数据处理逻辑 | - |
 
 ## 许可证信息
 
