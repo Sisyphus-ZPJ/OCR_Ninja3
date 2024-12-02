@@ -1,0 +1,6 @@
+process_path:
+  image_folder: "C:\\Users\\Admin\\Desktop\\OCR_Ninja3_v1.0\\samples\\initial_images"
+  output_folder:  'inputs'                         
+ocr_path:
+  data_path: 'inputs'    
+  save_path: 'results.xlsx'
