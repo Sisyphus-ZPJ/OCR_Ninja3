@@ -52,4 +52,4 @@ pip install -r requirements.txt
 
 ## 许可证信息
 
-本项目采用 MIT 许可证，详情请参考 [LICENSE 文件](./LICENSE)
+本项目采用 [MIT 许可证](./LICENSE)
